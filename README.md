@@ -2,7 +2,7 @@
 
 > A sophisticated retrieval and generation system that intelligently routes queries and guarantees high-quality, factual responses through multi-stage verification
 
-![System Architecture](https://github.com/username/repository/raw/main/images/system_architecture.png)
+![System Architecture](https://github.com/subrata-samanta/Adaptive-RAG/blob/058d270ce58d0f96f190c9f490b0082ad9404057/system_architecture.png)
 
 ## 🌟 Overview
 
